@@ -3,39 +3,21 @@
         "miutifin":{
                     "name":"Miutifin",
                     "link":"https://www.miutifin.com",
-                    "photoLink":"https://i.imgur.com/rlO1L2G.jpg",
+                    "photoLink":"https://imgur.com/ypMYoFZ.jpg",
                     "nuxt_link":0
                 },
-        "feedReader":{
-                    "name":"We",
+        "GiveABit":{
+                    "name":"GiveABit",
                     "link":"",
-                    "photoLink":"",
-                    "nuxt_link":0
+                    "photoLink":"https://imgur.com/PqeAik6.png",
+                    "nuxt_link":2
                 },
-        "miutifin2":{
-                    "name":"Miutifin",
-                    "link":"https://www.miutifin.com",
-                    "photoLink":"https://i.imgur.com/rlO1L2G.jpg",
+        "Opera":{
+                    "name":"Opera Salerno",
+                    "link":"https://www.operasalerno.it",
+                    "photoLink":"https://imgur.com/fBjxPPd.png",
                     "nuxt_link":0
-                },
-        "miutifin3":{
-                    "name":"Miutifin",
-                    "link":"https://www.miutifin.com",
-                    "photoLink":"https://i.imgur.com/rlO1L2G.jpg",
-                    "nuxt_link":0
-                },
-        "miutifin4":{
-                    "name":"Miutifin",
-                    "link":"https://www.miutifin.com",
-                    "photoLink":"https://i.imgur.com/rlO1L2G.jpg",
-                    "nuxt_link":0
-                },
-        "miutifin5":{
-                    "name":"Miutifin",
-                    "link":"https://www.miutifin.com",
-                    "photoLink":"https://i.imgur.com/rlO1L2G.jpg",
-                    "nuxt_link":0
-                }                      
+        }             
     }
     
 }
