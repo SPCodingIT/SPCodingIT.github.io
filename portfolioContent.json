@@ -1,23 +1,22 @@
-{"projects":
-    {
-        "miutifin":{
-                    "name":"Miutifin",
-                    "link":"https://www.miutifin.com",
-                    "photoLink":"https://imgur.com/ypMYoFZ.jpg",
-                    "nuxt_link":0
-                },
-        "GiveABit":{
-                    "name":"GiveABit",
-                    "link":"",
-                    "photoLink":"https://imgur.com/PqeAik6.png",
-                    "nuxt_link":2
-                },
-        "Opera":{
-                    "name":"Opera Salerno",
-                    "link":"https://www.operasalerno.it",
-                    "photoLink":"https://imgur.com/fBjxPPd.png",
-                    "nuxt_link":0
-        }             
+{
+  "projects": {
+    "miutifin": {
+      "name": "Miutifin",
+      "link": "https://www.miutifin.com",
+      "photoLink": "https://imgur.com/ypMYoFZ.jpg",
+      "nuxt_link": false
+    },
+    "GiveABit": {
+      "name": "GiveABit",
+      "link": "/giveabit",
+      "photoLink": "https://imgur.com/PqeAik6.png",
+      "nuxt_link": true
+    },
+    "Opera": {
+      "name": "Opera Salerno",
+      "link": "https://www.operasalerno.it",
+      "photoLink": "https://imgur.com/fBjxPPd.png",
+      "nuxt_link": false
     }
-    
+  }
 }
