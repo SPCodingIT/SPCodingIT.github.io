@@ -8,9 +8,9 @@
     },
     "GiveABit": {
       "name": "GiveABit",
-      "link": "/giveabit",
+      "link": "https://giveabit.it",
       "photoLink": "https://imgur.com/PqeAik6.png",
-      "nuxt_link": true
+      "nuxt_link": false
     },
     "Opera": {
       "name": "Opera Salerno",

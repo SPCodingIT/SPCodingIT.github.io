@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 1080 1080">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="New" value="1"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+</metadata>
+<defs/>
+<g id="Livello 1" vectornator:layerName="Livello 1">
+<path d="M-2.22327e-06+0L1080+0L1080+290.292L1080+1080L-2.22327e-06+1080L-2.22327e-06+0Z" opacity="1" fill="#1f1f1f"/>
+<path d="M470.396+244.353L470.396+592.515L406.035+524.221L363.616+603.897L477.222+718.388L527.691+718.388L527.691+244.353L470.396+244.353Z" opacity="1" fill="#1bff00"/>
+<path d="M609.604+718.388L609.604+370.227L673.965+438.52L716.384+358.844L602.778+244.353L552.309+244.353L552.309+718.388L609.604+718.388Z" opacity="1" fill="#1bff00"/>
+<path d="M540+747.817L540+747.817C564.254+747.817+583.915+767.478+583.915+791.732L583.915+791.732C583.915+815.986+564.254+835.647+540+835.647L540+835.647C515.746+835.647+496.085+815.986+496.085+791.732L496.085+791.732C496.085+767.478+515.746+747.817+540+747.817Z" opacity="1" fill="#1bff00"/>
+</g>
+</svg>
